@@ -10,6 +10,7 @@ pull some data via an API request and display it through a chart.
 * Displaying the data using VUE
 * Using chart.js to show the data in graph
 * Making the web-page responsive in all device sizes
+* Reproducing the data displayed from an already given mockup 
 
 ![Optional Text](./src/assets/vue-app.png)
 
